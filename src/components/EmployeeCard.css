@@ -1,0 +1,14 @@
+.user-image img{
+    width: 4rem;
+
+}
+.user-card{
+    cursor: pointer;
+    height: fit-content;
+    /* height :fit-content;
+    width: max-content; */
+}
+
+.search-employee{
+    border-color: #dfdfdf;
+}

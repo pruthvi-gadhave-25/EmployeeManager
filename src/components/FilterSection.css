@@ -1,0 +1,20 @@
+.filter-modules{
+    /* text-align: center; */
+height: 95vh;
+    border-right: 1px solid #cbcbcb;
+}
+.filter-modules ul{
+ 
+list-style-type: none ;
+}
+
+.filter-modules ul > li {
+    font-size: .8rem;
+    line-height: 1.3rem;
+    cursor: pointer;
+}
+.filter-modules ul > li:hover{
+    /* text-shadow: 2px 4px 4px rgba(46,91,173,0.6);
+     */
+     color: rgba(118, 118, 118, 0.6); 
+}

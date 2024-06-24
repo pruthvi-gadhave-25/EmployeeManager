@@ -1,0 +1,8 @@
+.employee-form input{
+    border-radius:  0 ;
+    
+}
+
+#EmployeeModal .modal-content{
+    width: 40vw !important;
+}
